@@ -1,8 +1,6 @@
 <h1>Hey there 👋, I'm Abhishek Yadav</h1>
 <h3>A passionate software developer from India</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=fleece30&label=Profile%20views&color=0e75b6&style=flat" alt="fleece30" /> </p>
-
 - 🔭 I’m currently working on [My personal website](https://abhishekyadav.vercel.app/)
 
 - 🌱 I’m currently learning **Go and Python!**
